@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "uart4.h": "c"
+    }
+}
